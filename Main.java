@@ -21,6 +21,7 @@ public class Main {
 		System.out.println("Volatge         : " + sokany.getVoltage() + "V");
 		System.out.println("Oven Capacity   : " + sokany.getOvenCapacity() + "L" );
 		System.out.println("Price           : " + "RM" + sokany.getPrice());
+		System.out.println();
 		
 		System.out.println("*****Cukyi*****");
 		cukyi.setBrand();
